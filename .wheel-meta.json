@@ -1,0 +1,22 @@
+{
+  "wheel_id": 497,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-104",
+  "project": "home-loan-broker-newcastle-checklist-c5b47b3da7aa9f2ad299c2dcbd",
+  "parent_t1_ref": "newcastlehomeloanbroker-151",
+  "node_role": "feeder",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan broker newcastle checklist",
+  "intended_url": "http://home-loan-broker-newcastle-checklist-c5b47b3da7aa9f2ad299c2dcbd.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "5f70e0b4c8a39b8b",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-newcastle-cf7af87c5eed3e86dd9c85c7e833918e7/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-newcastle-cf7af87c5eed3e86dd9c85c7e833918e7/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
